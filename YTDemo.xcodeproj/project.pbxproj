@@ -18,7 +18,6 @@
 		18731C9B211C510500D9214D /* Snippet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18731C97211C510500D9214D /* Snippet.swift */; };
 		18731C9C211C510500D9214D /* ResourceId.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18731C98211C510500D9214D /* ResourceId.swift */; };
 		18731C9D211C510500D9214D /* Thumbnail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18731C99211C510500D9214D /* Thumbnail.swift */; };
-		18731C9F211C512100D9214D /* Default.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18731C9E211C512100D9214D /* Default.swift */; };
 		18D3839C212052E400473C6D /* VideoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D3839B212052E400473C6D /* VideoVC.swift */; };
 		18F5883B211C9B3E000F8FF1 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 18F5883D211C9B3E000F8FF1 /* Localizable.strings */; };
 		18FB9CD4211B3A6B00BEFBDF /* PageInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FB9CCD211B3A6A00BEFBDF /* PageInfo.swift */; };
@@ -43,7 +42,6 @@
 		18731C97211C510500D9214D /* Snippet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Snippet.swift; sourceTree = "<group>"; };
 		18731C98211C510500D9214D /* ResourceId.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResourceId.swift; sourceTree = "<group>"; };
 		18731C99211C510500D9214D /* Thumbnail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Thumbnail.swift; sourceTree = "<group>"; };
-		18731C9E211C512100D9214D /* Default.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Default.swift; path = ../../../../../Default.swift; sourceTree = "<group>"; };
 		18D3839B212052E400473C6D /* VideoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoVC.swift; sourceTree = "<group>"; };
 		18F5883C211C9B3E000F8FF1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		18F5883E211C9B99000F8FF1 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Main.strings; sourceTree = "<group>"; };
@@ -74,7 +72,6 @@
 		18380662211B2C410092C7C7 /* ChannelPlaylistsResponse */ = {
 			isa = PBXGroup;
 			children = (
-				18731C9E211C512100D9214D /* Default.swift */,
 				18731C98211C510500D9214D /* ResourceId.swift */,
 				18731C96211C510500D9214D /* VideosResponse.swift */,
 				18731C97211C510500D9214D /* Snippet.swift */,
@@ -195,7 +192,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0940;
 				LastUpgradeCheck = 0940;
-				ORGANIZATIONNAME = Hesham;
+				ORGANIZATIONNAME = "Yasmine Ghazy";
 				TargetAttributes = {
 					186271AC211B20BC003579BC = {
 						CreatedOnToolsVersion = 9.4.1;
@@ -303,7 +300,6 @@
 				18731C9D211C510500D9214D /* Thumbnail.swift in Sources */,
 				18FB9CD4211B3A6B00BEFBDF /* PageInfo.swift in Sources */,
 				18FB9CDB211B41CC00BEFBDF /* ChannelPresenter.swift in Sources */,
-				18731C9F211C512100D9214D /* Default.swift in Sources */,
 				186271B3211B20BC003579BC /* ChannelVC.swift in Sources */,
 				18FB9CD5211B3A6B00BEFBDF /* Item.swift in Sources */,
 				186271B1211B20BC003579BC /* AppDelegate.swift in Sources */,
